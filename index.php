@@ -1,3 +1,6 @@
 <?php
-   include 'main.html';
+if(true) {
+  include 'main.html';
+}
+
 ?>
